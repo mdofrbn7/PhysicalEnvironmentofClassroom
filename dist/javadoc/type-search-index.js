@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"EnsuringUtmostComfortYoungLearers"},{"p":"<Unnamed>","l":"IncreasingEngagementAndParticipation"},{"p":"<Unnamed>","l":"MinimizingTheDistractions"},{"p":"<Unnamed>","l":"OfferingNeedfullRightHand"},{"p":"<Unnamed>","l":"PhysicalEnvironmentOfClassroomMain"}]
